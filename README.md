@@ -1,6 +1,3 @@
 # LeetCode_Problems
 
-25 Jan 2024 :
-
-Problem 1 : Longest Sub string
-https://leetcode.com/problems/longest-common-subsequence/?envType=daily-question&envId=2024-01-25
+List Of Some leetcode problems I have solved after 11/08/2024
