@@ -1,3 +1,5 @@
+/*TIme is O(n^2) and space is O(1) can be optimised*/
+
 class Solution {
     public int numSubarraysWithSum(int[] nums, int goal) {
         int n = nums.length;
