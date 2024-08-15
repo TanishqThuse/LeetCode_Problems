@@ -1,5 +1,13 @@
-//Brute force
+// //Sorting and sliding windows
+// class Solution{
+//     public int subarraySum(int[] nums, int k){
+        
+// }
 
+//This quesion is still let for undersndin or optimisation
+
+
+//Brute force ==> Bad apporach
 class Solution {
     public int subarraySum(int[] nums, int k) {
         int n = nums.length;
