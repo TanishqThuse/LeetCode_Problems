@@ -18,6 +18,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Sorting
@@ -27,6 +28,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0232-implement-queue-using-stacks) |
 ## Design
