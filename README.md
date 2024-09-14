@@ -9,6 +9,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0725-split-linked-list-in-parts) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0020-valid-parentheses) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0225-implement-stack-using-queues](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0232-implement-queue-using-stacks) |
 ## Design
@@ -64,6 +66,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -74,6 +77,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -82,4 +86,8 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Depth-First Search
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
