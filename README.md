@@ -16,6 +16,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | ------- |
 | [0242-valid-anagram](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0299-bulls-and-cows) |
+| [0451-sort-characters-by-frequency](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 ## String
@@ -24,6 +25,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0020-valid-parentheses](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0299-bulls-and-cows) |
+| [0451-sort-characters-by-frequency](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0541-reverse-string-ii) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -33,6 +35,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0539-minimum-time-difference) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## Stack
@@ -74,6 +77,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0299-bulls-and-cows) |
+| [0451-sort-characters-by-frequency](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Tree
 |  |
@@ -127,4 +131,12 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 |  |
 | ------- |
 | [0541-reverse-string-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0541-reverse-string-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
