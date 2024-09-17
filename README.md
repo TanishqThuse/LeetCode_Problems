@@ -69,6 +69,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0039-combination-sum) |
 | [0322-coin-change](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0322-coin-change) |
 | [0539-minimum-time-difference](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0539-minimum-time-difference) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -142,4 +143,8 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
