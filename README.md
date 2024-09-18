@@ -24,6 +24,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0020-valid-parentheses) |
+| [0179-largest-number](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -36,6 +37,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0539-minimum-time-difference) |
@@ -70,6 +72,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0039-combination-sum) |
+| [0179-largest-number](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0322-coin-change](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0322-coin-change) |
 | [0539-minimum-time-difference](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0539-minimum-time-difference) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -126,6 +129,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0179-largest-number) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## Dynamic Programming
 |  |
