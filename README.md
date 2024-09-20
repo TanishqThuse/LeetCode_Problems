@@ -25,6 +25,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | ------- |
 | [0020-valid-parentheses](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0299-bulls-and-cows) |
@@ -159,4 +160,16 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
