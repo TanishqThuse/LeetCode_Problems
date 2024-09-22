@@ -179,6 +179,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Sliding Window
 |  |
 | ------- |
