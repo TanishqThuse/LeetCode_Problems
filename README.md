@@ -22,6 +22,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0451-sort-characters-by-frequency](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -99,6 +100,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [1435-xor-queries-of-a-subarray](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -110,6 +112,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0299-bulls-and-cows](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Tree
