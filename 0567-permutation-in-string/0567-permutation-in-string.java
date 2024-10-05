@@ -1,3 +1,7 @@
+/**Initial map creation: O(n1)
+Sliding window loop: O(n2 - n1), where each iteration has an O(1) cost due to isSubMap.
+Thus, the total time complexity is O(n2), where n2 is the length of s2. */
+
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
         HashMap<Character, Integer> map1 = new HashMap<>();
