@@ -20,6 +20,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0299-bulls-and-cows](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0299-bulls-and-cows) |
 | [0432-all-oone-data-structure](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0432-all-oone-data-structure) |
 | [0451-sort-characters-by-frequency](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -41,6 +42,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0451-sort-characters-by-frequency](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -185,6 +187,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 |  |
 | ------- |
 | [0541-reverse-string-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0567-permutation-in-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Heap (Priority Queue)
 |  |
@@ -225,6 +228,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0567-permutation-in-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
