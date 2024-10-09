@@ -18,5 +18,8 @@ class Solution {
             }
         }
         return stack.size() + cnt;
+        //case - 1 : either some '(' left unassigned ==> so cnt==0 and stack.size() is utilised
+        //case - 2 : or some ')' is unassigned ==> so stack.size()==0 and cnt is utilised
+        //or some arbritrary combination works
     }
 }
