@@ -110,6 +110,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [1435-xor-queries-of-a-subarray](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Array
@@ -138,6 +139,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [1786-count-the-number-of-consistent-strings](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -251,6 +253,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0039-combination-sum) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Memoization
 |  |
 | ------- |
@@ -324,4 +327,8 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
