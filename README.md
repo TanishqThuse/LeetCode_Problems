@@ -53,6 +53,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [1304-longest-happy-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -207,6 +208,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | ------- |
 | [0231-power-of-two](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Greedy
 |  |
 | ------- |
@@ -310,6 +312,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 ## Simulation
 |  |
 | ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Matrix
 |  |
