@@ -150,6 +150,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2755-extra-characters-in-a-string) |
@@ -171,6 +172,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0102-binary-tree-level-order-traversal](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -179,6 +181,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0102-binary-tree-level-order-traversal](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0322-coin-change](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0322-coin-change) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
@@ -187,6 +190,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0102-binary-tree-level-order-traversal](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Prefix Sum
@@ -208,6 +212,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0386-lexicographical-numbers](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0386-lexicographical-numbers) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Math
 |  |
