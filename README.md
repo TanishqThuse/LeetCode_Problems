@@ -51,6 +51,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0539-minimum-time-difference](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0567-permutation-in-string) |
+| [0812-rotate-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1197-parsing-a-boolean-expression) |
@@ -301,6 +302,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
