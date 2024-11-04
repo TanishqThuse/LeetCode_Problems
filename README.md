@@ -71,6 +71,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [2755-extra-characters-in-a-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3451-string-compression-iii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3451-string-compression-iii) |
 ## Sorting
 |  |
 | ------- |
