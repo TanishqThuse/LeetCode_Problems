@@ -133,6 +133,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3291-find-if-array-can-be-sorted](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Array
 |  |
 | ------- |
@@ -175,6 +176,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Counting
 |  |
 | ------- |
@@ -335,6 +337,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Binary Search
 |  |
 | ------- |
