@@ -185,6 +185,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [3291-find-if-array-can-be-sorted](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Counting
 |  |
 | ------- |
@@ -350,6 +351,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Binary Search
 |  |
 | ------- |
