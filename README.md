@@ -154,6 +154,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
+| [0787-sliding-puzzle](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0859-design-circular-deque) |
 | [1002-maximum-width-ramp](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1002-maximum-width-ramp) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -220,6 +221,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0102-binary-tree-level-order-traversal](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0322-coin-change](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0322-coin-change) |
+| [0787-sliding-puzzle](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0787-sliding-puzzle) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -400,6 +402,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
+| [0787-sliding-puzzle](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0787-sliding-puzzle) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
