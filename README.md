@@ -428,4 +428,8 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2716-prime-subtraction-operation) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
