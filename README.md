@@ -177,6 +177,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -223,6 +224,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0322-coin-change](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0322-coin-change) |
 | [0787-sliding-puzzle](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0787-sliding-puzzle) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -316,6 +318,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1304-longest-happy-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Bucket Sort
@@ -408,6 +411,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [1402-count-square-submatrices-with-all-ones](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Monotonic Stack
 |  |
@@ -433,6 +437,11 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 ## Graph
 |  |
 | ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
