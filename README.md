@@ -260,6 +260,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0386-lexicographical-numbers](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0386-lexicographical-numbers) |
+| [2201-valid-arrangement-of-pairs](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2201-valid-arrangement-of-pairs) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Math
@@ -441,6 +442,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 ## Graph
 |  |
 | ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3189-find-champion-ii) |
@@ -450,4 +452,8 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
