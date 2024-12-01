@@ -26,6 +26,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1694-make-sum-divisible-by-p) |
@@ -88,6 +89,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1256-rank-transform-of-an-array](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2554-minimum-total-distance-traveled](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2554-minimum-total-distance-traveled) |
@@ -161,6 +163,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [1256-rank-transform-of-an-array](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1435-xor-queries-of-a-subarray) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -306,6 +309,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | ------- |
 | [0541-reverse-string-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0567-permutation-in-string) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1972-rotating-the-box) |
@@ -381,6 +385,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0209-minimum-size-subarray-sum](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0729-my-calendar-i](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
