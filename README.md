@@ -71,6 +71,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [2232-adding-spaces-to-a-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2232-adding-spaces-to-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2580-circular-sentence](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -318,6 +319,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [1972-rotating-the-box](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2232-adding-spaces-to-a-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2699-count-the-number-of-fair-pairs) |
