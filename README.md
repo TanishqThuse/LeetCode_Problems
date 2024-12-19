@@ -96,6 +96,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0451-sort-characters-by-frequency](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0780-max-chunks-to-make-sorted](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1256-rank-transform-of-an-array](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -118,6 +119,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0225-implement-stack-using-queues](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0780-max-chunks-to-make-sorted](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1197-parsing-a-boolean-expression) |
@@ -171,6 +173,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0859-design-circular-deque) |
 | [1002-maximum-width-ramp](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1002-maximum-width-ramp) |
@@ -318,6 +321,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0179-largest-number](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0670-maximum-swap) |
+| [0780-max-chunks-to-make-sorted](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1304-longest-happy-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1304-longest-happy-string) |
@@ -483,6 +487,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 ## Monotonic Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
