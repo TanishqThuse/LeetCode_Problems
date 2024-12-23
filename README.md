@@ -254,6 +254,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -267,6 +268,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -279,6 +281,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Prefix Sum
