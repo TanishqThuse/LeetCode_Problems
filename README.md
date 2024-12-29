@@ -269,6 +269,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0322-coin-change](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [0787-sliding-puzzle](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0787-sliding-puzzle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -313,6 +314,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0386-lexicographical-numbers](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [2201-valid-arrangement-of-pairs](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -537,6 +539,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [2201-valid-arrangement-of-pairs](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -560,4 +563,8 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
