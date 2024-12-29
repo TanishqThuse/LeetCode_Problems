@@ -164,6 +164,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0039-combination-sum) |
+| [0055-jump-game](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0179-largest-number](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
@@ -340,6 +341,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0670-maximum-swap) |
@@ -356,6 +358,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0494-target-sum) |
