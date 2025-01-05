@@ -80,6 +80,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [2346-largest-3-same-digit-number-in-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2465-shifting-letters-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2580-circular-sentence](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -213,6 +214,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2465-shifting-letters-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -313,6 +315,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [1940-maximum-xor-for-each-query](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3427-special-array-ii) |
