@@ -1,60 +1,57 @@
 class Solution {
 
+    class TrieNode {
+
+        // Tracks how many times this substring appears in the Trie.
+        int frequency;
+        // Maps characters to their respective child nodes.
+        Map<Character, TrieNode> childNodes;
+
+        TrieNode() {
+            frequency = 0;
+            childNodes = new HashMap<>();
+        }
+    }
+
     public List<String> stringMatching(String[] words) {
         List<String> matchingWords = new ArrayList<>();
+        TrieNode root = new TrieNode(); // Initialize the root of the Trie.
 
-        // Iterate through each word in the input array.
-        for (
-            int currentWordIndex = 0;
-            currentWordIndex < words.length;
-            currentWordIndex++
-        ) {
-            // Compare the current word with all other words.
-            for (
-                int otherWordIndex = 0;
-                otherWordIndex < words.length;
-                otherWordIndex++
-            ) {
-                if (currentWordIndex == otherWordIndex) continue; // Skip comparing the word with itself.
+        // Insert all suffixes of each word into the Trie.
+        for (String word : words) {
+            for (int startIndex = 0; startIndex < word.length(); startIndex++) {
+                // Insert each suffix starting from index startIndex.
+                insertWord(root, word.substring(startIndex));
+            }
+        }
 
-                // Check if the current word is a substring of another word.
-                if (
-                    isSubstringOf(
-                        words[currentWordIndex],
-                        words[otherWordIndex]
-                    )
-                ) {
-                    matchingWords.add(words[currentWordIndex]); // Add it to the result list if true.
-                    break; // No need to check further for this word.
-                }
+        // Check each word to see if it exists as a substring in the Trie.
+        for (String word : words) {
+            if (isSubstring(root, word)) {
+                matchingWords.add(word);
             }
         }
 
         return matchingWords;
     }
 
-    // Helper function to check if `sub` is a substring of `main`.
-    private boolean isSubstringOf(String sub, String main) {
-        // Loop through possible starting indices in `main`.
-        for (int startIndex = 0; startIndex < main.length(); startIndex++) {
-            boolean subFits = true;
-
-            // Check if the substring matches from the current start index.
-            for (int subIndex = 0; subIndex < sub.length(); subIndex++) {
-                if (
-                    startIndex + subIndex >= main.length() ||
-                    main.charAt(startIndex + subIndex) != sub.charAt(subIndex)
-                ) {
-                    subFits = false; // The substring doesn't match.
-                    break; // No need to continue further for this start index.
-                }
-            }
-
-            if (subFits) {
-                return true; // Found a match, return true.
-            }
+    private void insertWord(TrieNode root, String word) {
+        TrieNode currentNode = root;
+        for (char c : word.toCharArray()) {
+            // If the character already exists as a child node, move to it.
+            currentNode.childNodes.putIfAbsent(c, new TrieNode());
+            currentNode = currentNode.childNodes.get(c);
+            currentNode.frequency++; // Increment the frequency of the node.
         }
+    }
 
-        return false; // No match found.
+    private boolean isSubstring(TrieNode root, String word) {
+        TrieNode currentNode = root;
+        for (char c : word.toCharArray()) {
+            // Traverse the Trie following the characters of the word.
+            currentNode = currentNode.childNodes.get(c);
+        }
+        // A word is a substring if its frequency in the Trie is greater than 1.
+        return currentNode.frequency > 1;
     }
 }
