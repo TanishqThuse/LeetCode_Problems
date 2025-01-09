@@ -78,6 +78,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2232-adding-spaces-to-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -214,6 +215,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [2179-most-beautiful-item-for-each-query](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2232-adding-spaces-to-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2358-number-of-ways-to-split-array) |
@@ -450,6 +452,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0214-shortest-palindrome](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1524-string-matching-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Hash Function
 |  |
 | ------- |
