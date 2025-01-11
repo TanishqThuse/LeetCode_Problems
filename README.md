@@ -29,6 +29,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [1256-rank-transform-of-an-array](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1502-construct-k-palindrome-strings](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -69,6 +70,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [1302-delete-characters-to-make-fancy-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1502-construct-k-palindrome-strings](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -260,6 +262,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0347-top-k-frequent-elements](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1502-construct-k-palindrome-strings](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2300-construct-string-with-repeat-limit) |
@@ -373,6 +376,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1304-longest-happy-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1304-longest-happy-string) |
+| [1502-construct-k-palindrome-strings](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2300-construct-string-with-repeat-limit](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2300-construct-string-with-repeat-limit) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
