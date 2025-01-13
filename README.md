@@ -49,6 +49,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [2755-extra-characters-in-a-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2755-extra-characters-in-a-string) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
 | ------- |
@@ -100,6 +101,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3451-string-compression-iii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -272,6 +274,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Tree
 |  |
 | ------- |
