@@ -205,6 +205,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [1002-maximum-width-ramp](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1002-maximum-width-ramp) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1256-rank-transform-of-an-array](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1256-rank-transform-of-an-array) |
+| [1396-count-servers-that-communicate](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -275,6 +276,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0347-top-k-frequent-elements](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1396-count-servers-that-communicate](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -307,6 +309,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [0787-sliding-puzzle](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0787-sliding-puzzle) |
+| [1396-count-servers-that-communicate](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -359,6 +362,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0386-lexicographical-numbers](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0547-number-of-provinces) |
+| [1396-count-servers-that-communicate](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1396-count-servers-that-communicate) |
 | [2201-valid-arrangement-of-pairs](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -558,6 +562,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0787-sliding-puzzle](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0787-sliding-puzzle) |
+| [1396-count-servers-that-communicate](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1876-map-of-highest-peak) |
@@ -624,4 +629,5 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0547-number-of-provinces) |
+| [1396-count-servers-that-communicate](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
