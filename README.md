@@ -208,6 +208,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0859-design-circular-deque](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0859-design-circular-deque) |
 | [0952-word-subsets](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1002-maximum-width-ramp) |
+| [1046-max-consecutive-ones-iii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1256-rank-transform-of-an-array](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1396-count-servers-that-communicate](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1396-count-servers-that-communicate) |
@@ -351,6 +352,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0731-my-calendar-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
+| [1046-max-consecutive-ones-iii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -518,6 +520,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0209-minimum-size-subarray-sum](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1046-max-consecutive-ones-iii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1755-defuse-the-bomb](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1755-defuse-the-bomb) |
@@ -535,6 +538,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0209-minimum-size-subarray-sum](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0729-my-calendar-i](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
+| [1046-max-consecutive-ones-iii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
