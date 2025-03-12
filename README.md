@@ -73,6 +73,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [1197-parsing-a-boolean-expression](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1304-longest-happy-string) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1524-string-matching-in-an-array) |
@@ -395,6 +396,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0241-different-ways-to-add-parentheses](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0670-maximum-swap) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [2716-prime-subtraction-operation](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
@@ -415,6 +417,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1304-longest-happy-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1304-longest-happy-string) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1502-construct-k-palindrome-strings](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
