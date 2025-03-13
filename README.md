@@ -66,6 +66,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0539-minimum-time-difference](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0567-permutation-in-string) |
+| [0722-remove-comments](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0722-remove-comments) |
 | [0812-rotate-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0952-word-subsets) |
@@ -202,6 +203,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0539-minimum-time-difference](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0722-remove-comments](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0722-remove-comments) |
 | [0729-my-calendar-i](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0731-my-calendar-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0780-max-chunks-to-make-sorted) |
