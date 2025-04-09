@@ -56,6 +56,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0179-largest-number) |
@@ -522,6 +523,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
