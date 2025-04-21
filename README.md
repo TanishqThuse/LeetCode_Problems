@@ -59,6 +59,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | ------- |
 | [0014-longest-common-prefix](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0214-shortest-palindrome) |
@@ -447,6 +448,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
@@ -506,6 +508,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0039-combination-sum) |
 | [0494-target-sum](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
