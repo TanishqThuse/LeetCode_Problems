@@ -297,6 +297,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3632-button-with-longest-push-time](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3632-button-with-longest-push-time) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Counting
 |  |
 | ------- |
