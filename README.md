@@ -416,6 +416,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0539-minimum-time-difference) |
