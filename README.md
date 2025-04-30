@@ -230,6 +230,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [1256-rank-transform-of-an-array](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1396-count-servers-that-communicate](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -420,6 +421,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0539-minimum-time-difference](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0670-maximum-swap) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2716-prime-subtraction-operation](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3830-find-closest-person](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3830-find-closest-person) |
