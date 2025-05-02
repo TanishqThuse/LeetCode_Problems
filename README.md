@@ -73,6 +73,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0567-permutation-in-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0567-permutation-in-string) |
 | [0722-remove-comments](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0722-remove-comments) |
 | [0812-rotate-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -464,6 +465,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0322-coin-change](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0868-push-dominoes](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0868-push-dominoes) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2164-two-best-non-overlapping-events](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2554-minimum-total-distance-traveled](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2554-minimum-total-distance-traveled) |
@@ -477,6 +479,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0125-valid-palindrome](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0541-reverse-string-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0567-permutation-in-string) |
+| [0868-push-dominoes](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0868-push-dominoes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1923-sentence-similarity-iii) |
