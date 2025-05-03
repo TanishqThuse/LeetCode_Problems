@@ -228,6 +228,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [1002-maximum-width-ramp](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1002-maximum-width-ramp) |
 | [1046-max-consecutive-ones-iii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1256-rank-transform-of-an-array](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1396-count-servers-that-communicate](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -445,6 +446,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0780-max-chunks-to-make-sorted](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1304-longest-happy-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1304-longest-happy-string) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1502-construct-k-palindrome-strings](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1502-construct-k-palindrome-strings) |
