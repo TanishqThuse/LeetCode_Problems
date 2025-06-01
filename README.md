@@ -204,6 +204,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
@@ -527,6 +528,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | ------- |
 | [0022-generate-parentheses](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
