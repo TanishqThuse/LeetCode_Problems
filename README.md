@@ -61,6 +61,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0020-valid-parentheses](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
@@ -468,6 +469,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0022-generate-parentheses](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0055-jump-game) |
+| [0131-palindrome-partitioning](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0494-target-sum) |
@@ -530,6 +532,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0022-generate-parentheses](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0040-combination-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
