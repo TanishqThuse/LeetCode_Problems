@@ -427,6 +427,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0539-minimum-time-difference) |
@@ -471,6 +472,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0022-generate-parentheses](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0322-coin-change) |
@@ -542,6 +544,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
 ## Rolling Hash
 |  |
