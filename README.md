@@ -437,6 +437,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0241-different-ways-to-add-parentheses) |
@@ -482,6 +483,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0022-generate-parentheses](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0198-house-robber) |
@@ -740,4 +742,8 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0820-find-eventual-safe-states](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
