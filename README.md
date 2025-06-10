@@ -55,6 +55,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
 | ------- |
@@ -119,6 +120,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [3447-clear-digits](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
 | ------- |
@@ -327,6 +329,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Tree
 |  |
 | ------- |
