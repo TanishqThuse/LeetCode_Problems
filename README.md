@@ -215,6 +215,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0063-unique-paths-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
+| [0120-triangle](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0120-triangle) |
 | [0179-largest-number](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
@@ -489,6 +490,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0063-unique-paths-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0213-house-robber-ii) |
