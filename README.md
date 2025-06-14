@@ -449,6 +449,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0670-maximum-swap](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0670-maximum-swap) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3830-find-closest-person](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3830-find-closest-person) |
@@ -480,6 +481,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2716-prime-subtraction-operation) |
 ## Dynamic Programming
 |  |
