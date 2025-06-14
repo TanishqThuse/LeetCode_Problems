@@ -26,6 +26,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0567-permutation-in-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0940-fruit-into-baskets](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0952-word-subsets) |
 | [1256-rank-transform-of-an-array](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -237,6 +238,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0780-max-chunks-to-make-sorted](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0859-design-circular-deque) |
+| [0940-fruit-into-baskets](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1002-maximum-width-ramp](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1002-maximum-width-ramp) |
@@ -601,6 +603,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0209-minimum-size-subarray-sum](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0940-fruit-into-baskets](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
