@@ -270,6 +270,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [1940-maximum-xor-for-each-query](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1972-rotating-the-box) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2164-two-best-non-overlapping-events](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2179-most-beautiful-item-for-each-query) |
