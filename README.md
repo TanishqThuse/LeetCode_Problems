@@ -150,6 +150,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [2699-count-the-number-of-fair-pairs](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3291-find-if-array-can-be-sorted) |
 ## Stack
 |  |
@@ -311,6 +312,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -488,6 +490,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2716-prime-subtraction-operation) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
