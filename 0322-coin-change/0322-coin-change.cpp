@@ -1,116 +1,50 @@
 class Solution {
 public:
 
-    int solveDpMemo(vector<int>& coins, int amount, vector<int>& dp) {
-        if (amount == 0) {
-            return 0;
-        } else if (amount < 0) {
-            return INT_MAX;
-        }
+    int coinChange(vector<int>& coins, int amount) {
+        vector<int> dp(amount+1, amount+1);
+        // of size amount+1 with max value amount+1
 
-        if (dp[amount] != -1) {
-            return dp[amount];
-        }
+        // to make amount = 0 we need 0 coins
+        dp[0] = 0;
 
-        int mini = INT_MAX;
-
-        for (int coin : coins) {
-            int ans = solveDpMemo(coins, amount - coin, dp);
-            if (ans != INT_MAX) {
-                mini = min(mini, 1 + ans);
+        // now for making sum 1 to amount we have to iterate
+        for(int sum=1; sum<=amount; sum++){
+            for(int coin : coins){
+                if(sum - coin >= 0)
+                dp[sum] = min(dp[sum], dp[sum-coin] + 1);
             }
         }
 
-        dp[amount] = mini;
+        if(dp[amount] > amount) return -1;
         return dp[amount];
     }
 
-    int coinChange(vector<int>& coins, int amount) {
-        vector<int> dp(amount + 1, -1); // Initialize dp array with size amount + 1
-        int ans = solveDpMemo(coins, amount, dp);
+    // Greedy doesnt look like the solution to this problem
+    // // Approach -1 : sorting + greedy 
+    // int coinChange(vector<int>& coins, int amount) {
+    //     int n = coins.size();
+    //     sort(coins.rbegin(), coins.rend());
 
-        return (ans == INT_MAX) ? -1 : ans;
-    }
+    //     int j=0;
+    //     int ans = 0;
+    //     int cnt = 0;
+    //     while(amount > 0 && j<n){
+    //         int currCoin = coins[j];
+            
+    //         if(amount >= currCoin){
+    //             int totalCoins = amount / currCoin; 
+    //             cnt += totalCoins;
+    //             amount = amount % currCoin;
+    //         }
+    //         else{
+    //             j++;
+    //         }
+    //     }
+
+    //     if(amount == 0){
+    //         return cnt;
+    //     }
+    //     return -1;
+    // }
 };
-
-
-// class Solution{
-//     public:
-
-//     int solveDpMemo(vector<int>& coins, int amount, vector<int>& dp){
-//         int x = amount; //i am lazy
-//         if(x==0){
-//             return 0;
-//         }
-//         else if(x<0){
-//             return INT_MAX;
-//         }
-
-//         if(dp[amount]!=-1){
-//             return dp[amount];
-//         }
-
-//         int mini = INT_MAX;
-
-//         for(int i=0; i<coins.size(); i++){
-//             int ans = solveDpMemo(coins, amount-coins[i], dp);
-//             if(ans!=INT_MAX){
-//                 mini = min(mini, 1+ans);
-//             }
-//         }
-
-//         //assign cureent vaue at x dp
-//         dp[x] = mini;
-
-//         return dp[x];
-//     }
-
-//     int coinChange(vector<int>& coins, int amount) {
-//         int n = coins.size();
-//         vector<int> dp(n+1,-1);
-//         int ans = solveDpMemo(coins, amount, dp);
-
-//         if(ans==INT_MAX){
-//             return -1;
-//         }
-//         else{
-//             return ans;
-//         }
-//     }
-// };
-
-
-// // // This solution give TLE due to Recursion problem not optimla
-// // class Solution {
-// // public:
-
-// //     int RecMemo(vector<int>& coins, int amount){
-// //         int x = amount; //i am lazy
-// //         if(x==0){
-// //             return 0;
-// //         }
-// //         else if(x<0){
-// //             return INT_MAX;
-// //         }
-
-// //         int mini = INT_MAX;
-
-// //         for(int i=0; i<coins.size(); i++){
-// //             int ans = RecMemo(coins, amount-coins[i]);
-// //             if(ans!=INT_MAX){
-// //                 mini = min(mini, 1+ans);
-// //             }
-// //         }
-
-// //         return mini;
-
-// //     }
-
-// //     int coinChange(vector<int>& coins, int amount) {
-// //         int ans = RecMemo(coins, amount);
-// //         if(ans==INT_MAX){
-// //             return -1;
-// //         }
-// //         return ans;
-// //     }
-// // };
