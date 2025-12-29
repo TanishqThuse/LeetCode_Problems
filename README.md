@@ -28,6 +28,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0920-uncommon-words-from-two-sentences](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0952-word-subsets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1256-rank-transform-of-an-array](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -246,6 +247,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0940-fruit-into-baskets](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0967-minimum-falling-path-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1002-maximum-width-ramp](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1046-max-consecutive-ones-iii) |
@@ -336,6 +338,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0347-top-k-frequent-elements](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0992-subarrays-with-k-different-integers](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1396-count-servers-that-communicate](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -617,6 +620,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0567-permutation-in-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0940-fruit-into-baskets](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0940-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
