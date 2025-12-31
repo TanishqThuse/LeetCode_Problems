@@ -784,4 +784,8 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0062-unique-paths) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
