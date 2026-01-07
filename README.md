@@ -66,6 +66,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0014-longest-common-prefix](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0179-largest-number) |
