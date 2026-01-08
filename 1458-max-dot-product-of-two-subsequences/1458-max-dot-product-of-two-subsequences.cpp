@@ -13,7 +13,7 @@ public:
                 int curr = nums1[i] * nums2[j];
 
                 if(i>0 && j>0){
-                    curr += max(0, dp[i-1][j-1]);
+                    curr = curr+max(0, dp[i-1][j-1]);
                 }
 
                 dp[i][j] = curr;
