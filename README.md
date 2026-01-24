@@ -329,6 +329,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3429-special-array-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -434,6 +435,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3427-special-array-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Brainteaser
 |  |
 | ------- |
@@ -475,6 +477,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2716-prime-subtraction-operation) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3830-find-closest-person](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3830-find-closest-person) |
 ## Recursion
