@@ -142,6 +142,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1256-rank-transform-of-an-array](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2164-two-best-non-overlapping-events](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -283,6 +284,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [1923-sentence-similarity-iii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1972-rotating-the-box) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2164-two-best-non-overlapping-events](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2164-two-best-non-overlapping-events) |
@@ -639,6 +641,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1755-defuse-the-bomb](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1755-defuse-the-bomb) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2868-continuous-subarrays) |
