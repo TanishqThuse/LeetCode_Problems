@@ -214,6 +214,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [2792-neighboring-bitwise-xor](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Array
 |  |
 | ------- |
