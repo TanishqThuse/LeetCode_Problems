@@ -31,6 +31,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0952-word-subsets](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0952-word-subsets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1256-rank-transform-of-an-array](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1256-rank-transform-of-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -141,6 +142,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [0780-max-chunks-to-make-sorted](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/0780-max-chunks-to-make-sorted) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1256-rank-transform-of-an-array](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1256-rank-transform-of-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2164-two-best-non-overlapping-events](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2164-two-best-non-overlapping-events) |
@@ -260,6 +262,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [1256-rank-transform-of-an-array](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1331-rank-transform-of-an-array](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
