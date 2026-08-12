@@ -56,6 +56,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2755-extra-characters-in-a-string](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -326,6 +327,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -657,6 +659,7 @@ I am going to keep a track of all problems i have solved after the date 11/08/20
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/TanishqThuse/LeetCode_Problems/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
